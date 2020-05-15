@@ -1,0 +1,3 @@
+C:/Users/jaisi/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/hello.x.dir
+C:/Users/jaisi/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jaisi/OneDrive/Desktop/HelloWorld/Build/CMakeFiles/ZERO_CHECK.dir
